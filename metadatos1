@@ -1,0 +1,149 @@
+Image: image.jpg
+  Format: JPEG (Joint Photographic Experts Group JFIF format)
+  Mime type: image/jpeg
+  Class: DirectClass
+  Geometry: 3072x3072+0+0
+  Resolution: 72x72
+  Print size: 42.6667x42.6667
+  Units: PixelsPerInch
+  Colorspace: sRGB
+  Type: TrueColor
+  Base type: Undefined
+  Endianess: Undefined
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Pixels: 9437184
+    Red:
+      min: 0  (0)
+      max: 229 (0.898039)
+      mean: 125.297 (0.49136)
+      standard deviation: 62.5599 (0.245333)
+      kurtosis: -0.983192
+      skewness: -0.803623
+      entropy: 0.860544
+    Green:
+      min: 0  (0)
+      max: 247 (0.968627)
+      mean: 143.166 (0.561436)
+      standard deviation: 61.4193 (0.24086)
+      kurtosis: -1.01008
+      skewness: -0.759999
+      entropy: 0.844787
+    Blue:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 163.627 (0.641675)
+      standard deviation: 62.7259 (0.245984)
+      kurtosis: -1.21127
+      skewness: -0.637177
+      entropy: 0.84676
+  Image statistics:
+    Overall:
+      min: 0  (0)
+      max: 255 (1)
+      mean: 144.03 (0.564824)
+      standard deviation: 62.235 (0.244059)
+      kurtosis: -0.887326
+      skewness: -0.665273
+      entropy: 0.850697
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 3072x3072+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: JPEG
+  Quality: 95
+  Orientation: RightTop
+  Properties:
+    date:create: 2025-02-17T21:22:13+00:00
+    date:modify: 2025-02-17T21:22:13+00:00
+    exif:ApertureValue: 1800/1000
+    exif:BrightnessValue: 0/10
+    exif:ColorSpace: 1
+    exif:ComponentsConfiguration: 1, 2, 3, 0
+    exif:DateTime: 2025:01:16 15:04:03
+    exif:DateTimeDigitized: 2025:01:16 15:04:03
+    exif:DateTimeOriginal: 2025:01:16 15:04:03
+    exif:DigitalZoomRatio: 100/100
+    exif:ExifOffset: 442
+    exif:ExifVersion: 48, 50, 50, 48
+    exif:ExposureBiasValue: 0/10
+    exif:ExposureMode: 0
+    exif:ExposureProgram: 0
+    exif:ExposureTime: 4540/1000000
+    exif:Flash: No Flash 0
+    exif:FlashPixVersion: 48, 49, 48, 48
+    exif:FNumber: 1800/1000
+    exif:FocalLength: 4260/1000
+    exif:FocalLengthIn35mmFilm: 0
+    exif:ImageDescription: 
+    exif:ImageLength: 3072
+    exif:ImageWidth: 3072
+    exif:InteroperabilityOffset: 3598
+    exif:LightSource: Other 255
+    exif:Make: motorola
+    exif:MakerNote: 77, 79, 84, 0, 1, 1, 1, 1, 84, 0, 0, 85, 2, 0, 128, 0, 0, 0, 254, 3, 0, 0, 2, 85, 1, 0, 1, 0, 0, 0, 42, 0, 0, 0, 3, 85, 1, 0, 1, 0, 0, 0, 24, 0, 0, 0, 17, 85, 9, 0, 1, 0, 0, 0, 252, 0, 0, 0, 18, 85, 4, 0, 1, 0, 0, 0, 90, 0, 0, 0, 32, 85, 4, 0, 1, 0, 0, 0, 2, 0, 0, 0, 49, 85, 3, 0, 1, 0, 0, 0, 4, 0, 0, 0, 64, 85, 1, 0, 1, 0, 0, 0, 95, 0, 0, 0, 80, 85, 1, 0, 1, 0, 0, 0, 95, 0, 0, 0, 97, 85, 3, 0, 1, 0, 0, 0, 1, 0, 0, 0, 229, 85, 4, 0, 1, 0, 0, 0, 225, 1, 0, 0, 230, 85, 4, 0, 1, 0, 0, 0, 10, 3, 0, 0, 231, 85, 4, 0, 1, 0, 0, 0, 225, 1, 0, 0, 232, 85, 4, 0, 1, 0, 0, 0, 10, 3, 0, 0, 233, 85, 2, 0, 40, 0, 0, 0, 126, 4, 0, 0, 0, 96, 9, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 100, 2, 0, 5, 0, 0, 0, 166, 4, 0, 0, 16, 100, 2, 0, 4, 0, 0, 0, 89, 69, 83, 0, 32, 100, 2, 0, 26, 0, 0, 0, 171, 4, 0, 0, 51, 100, 2, 0, 2, 0, 0, 0, 48, 0, 0, 0, 52, 100, 2, 0, 2, 0, 0, 0, 48, 0, 0, 0, 59, 100, 2, 0, 10, 0, 0, 0, 197, 4, 0, 0, 81, 100, 2, 0, 4, 0, 0, 0, 48, 46, 56, 0, 86, 100, 2, 0, 2, 0, 0, 0, 51, 0, 0, 0, 87, 100, 2, 0, 16, 0, 0, 0, 207, 4, 0, 0, 88, 100, 2, 0, 13, 0, 0, 0, 223, 4, 0, 0, 91, 100, 9, 0, 1, 0, 0, 0, 2, 0, 0, 0, 92, 100, 2, 0, 5, 0, 0, 0, 236, 4, 0, 0, 93, 100, 2, 0, 16, 0, 0, 0, 241, 4, 0, 0, 192, 100, 2, 0, 10, 0, 0, 0, 1, 5, 0, 0, 193, 100, 2, 0, 64, 0, 0, 0, 11, 5, 0, 0, 194, 100, 2, 0, 16, 0, 0, 0, 75, 5, 0, 0, 208, 100, 2, 0, 18, 0, 0, 0, 91, 5, 0, 0, 18, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 19, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 20, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 21, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 64, 102, 2, 0, 40, 0, 0, 0, 109, 5, 0, 0, 66, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 67, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 68, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 69, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 79, 102, 3, 0, 1, 0, 0, 0, 64, 0, 0, 0, 80, 102, 3, 0, 1, 0, 0, 0, 64, 0, 0, 0, 81, 102, 3, 0, 1, 0, 0, 0, 64, 0, 0, 0, 82, 102, 3, 0, 1, 0, 0, 0, 64, 0, 0, 0, 84, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 85, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 86, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 94, 102, 2, 0, 40, 0, 0, 0, 149, 5, 0, 0, 95, 102, 9, 0, 1, 0, 0, 0, 0, 0, 0, 0, 96, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 97, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 99, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 100, 102, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 103, 102, 2, 0, 10, 0, 0, 0, 189, 5, 0, 0, 104, 102, 2, 0, 7, 0, 0, 0, 199, 5, 0, 0, 105, 102, 2, 0, 10, 0, 0, 0, 206, 5, 0, 0, 255, 102, 3, 0, 1, 0, 0, 0, 3, 0, 0, 0, 0, 103, 2, 0, 40, 0, 0, 0, 216, 5, 0, 0, 1, 103, 2, 0, 40, 0, 0, 0, 0, 6, 0, 0, 2, 103, 2, 0, 40, 0, 0, 0, 40, 6, 0, 0, 3, 103, 2, 0, 40, 0, 0, 0, 80, 6, 0, 0, 4, 103, 2, 0, 40, 0, 0, 0, 120, 6, 0, 0, 5, 103, 2, 0, 40, 0, 0, 0, 160, 6, 0, 0, 6, 103, 2, 0, 1, 0, 0, 0, 49, 0, 0, 0, 0, 112, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 112, 3, 0, 1, 0, 0, 0, 232, 5, 0, 0, 2, 112, 3, 0, 1, 0, 0, 0, 192, 3, 0, 0, 3, 112, 3, 0, 1, 0, 0, 0, 31, 4, 0, 0, 4, 112, 3, 0, 1, 0, 0, 0, 127, 4, 0, 0, 14, 113, 2, 0, 28, 0, 0, 0, 200, 6, 0, 0, 15, 113, 2, 0, 30, 0, 0, 0, 228, 6, 0, 0, 16, 113, 2, 0, 39, 0, 0, 0, 2, 7, 0, 0, 20, 113, 2, 0, 16, 0, 0, 0, 41, 7, 0, 0, 23, 113, 2, 0, 5, 0, 0, 0, 57, 7, 0, 0, 24, 113, 2, 0, 5, 0, 0, 0, 62, 7, 0, 0, 25, 113, 9, 0, 1, 0, 0, 0, 0, 0, 0, 0, 26, 113, 2, 0, 10, 0, 0, 0, 67, 7, 0, 0, 64, 113, 9, 0, 1, 0, 0, 0, 0, 0, 189, 0, 97, 113, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 145, 113, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 146, 113, 2, 0, 5, 0, 0, 0, 77, 7, 0, 0, 150, 113, 2, 0, 3, 0, 0, 0, 78, 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 120, 51, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 65, 85, 84, 79, 0, 83, 99, 101, 110, 101, 58, 32, 72, 68, 82, 124, 65, 115, 72, 68, 82, 58, 32, 79, 75, 44, 32, 51, 47, 51, 0, 48, 59, 45, 51, 59, 49, 46, 53, 59, 0,
+    exif:MaxApertureValue: 0/100
+    exif:MeteringMode: 2
+    exif:Model: moto g stylus (2023)
+    exif:Orientation: 6
+    exif:PhotographicSensitivity: 101
+    exif:PixelXDimension: 3072
+    exif:PixelYDimension: 3072
+    exif:RecommendedExposureIndex: 0
+    exif:ResolutionUnit: 2
+    exif:SceneCaptureType: 0
+    exif:SceneType: 1
+    exif:SensingMethod: 1
+    exif:SensitivityType: 0
+    exif:ShutterSpeedValue: 4540/1000000
+    exif:Software: 
+    exif:SubSecTime: 264
+    exif:SubSecTimeDigitized: 264
+    exif:SubSecTimeOriginal: 264
+    exif:thumbnail:Compression: 6
+    exif:thumbnail:InteroperabilityIndex: R98
+    exif:thumbnail:InteroperabilityVersion: 48, 49, 48, 48
+    exif:thumbnail:JPEGInterchangeFormat: 5876
+    exif:thumbnail:JPEGInterchangeFormatLength: 0
+    exif:thumbnail:Orientation: 1
+    exif:thumbnail:ResolutionUnit: 2
+    exif:thumbnail:XResolution: 72/1
+    exif:thumbnail:YCbCrPositioning: 2
+    exif:thumbnail:YResolution: 72/1
+    exif:WhiteBalance: 0
+    exif:XResolution: 72/1
+    exif:YCbCrPositioning: 2
+    exif:YResolution: 72/1
+    jpeg:colorspace: 2
+    jpeg:sampling-factor: 2x2,1x1,1x1
+    signature: 156ddb6f4f4dc3d5df42dfa0cf9eb7cca7067061f090c012cda75a509a1a35d0
+    unknown: 0
+  Profiles:
+    Profile-exif: 5882 bytes
+  Artifacts:
+    filename: image.jpg
+    verbose: true
+  Tainted: False
+  Filesize: 2.43592MiB
+  Number pixels: 9.43718M
+  Pixels per second: 74.5679MB
+  User time: 0.130u
+  Elapsed time: 0:01.126
+   
