@@ -1,0 +1,36 @@
+//MAL RECORTADO
+image width 1017
+image height 1280
+Pdf width 595.28
+Pdf height 841.89
+scale 0.6577265625
+Es horizontal?  false
+Nuevo width 668.9079140624999
+Nuevo height 841.8899999999999
+X: -36.81395703124997
+Y: 5.684341886080802e-14
+
+//MAL RECORTADO
+image width 3072
+image height 3072
+Pdf width 595.28
+Pdf height 841.89
+scale 0.274052734375
+Es horizontal?  false
+Nuevo width 841.89
+Nuevo height 841.89
+X: -123.305
+Y: 0
+
+
+//Bien recortado o mas bien escala la imagen
+image width 4080
+image height 1792
+Pdf width 595.28
+Pdf height 841.89
+Pdf height 0.14590196078431372
+Es horizontal?  true
+Nuevo width 595.28
+Nuevo height 261.4563137254902
+X: 0
+Y: 290.2168431372549
